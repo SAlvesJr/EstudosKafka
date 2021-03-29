@@ -1,0 +1,15 @@
+
+ˆ
+java:S1128"fRemove this unused import 'org.springframework.boot.autoconfigure.condition.ConditionalOnMissingBean'.(Ü¥›åûÿÿÿÿ8†àñÙ†/
+W	java:S1256"<This block of commented-out lines of code should be removed.(‚æ‚ 8Çùïó†/
+n
+java:S1128
+"LRemove this unused import 'org.apache.kafka.clients.consumer.KafkaConsumer'.(ËÁ²‹úÿÿÿÿ8âøØ†/
+}
+java:S1128"[Remove this unused import 'org.springframework.kafka.config.KafkaListenerContainerFactory'.(‚ÒÜýÿÿÿÿ8•ÑºÙ†/
+Z
+java:S1128"8Remove this unused import 'org.modelmapper.ModelMapper'.(ó¿Ôúÿÿÿÿ8àÃàõ†/
+d
+java:S1128"GRemove this unused import 'org.apache.kafka.clients.consumer.Consumer'.(ÌÄ­ä8–¬÷Ø†/
+_
+java:S1128"BRemove this unused import 'org.apache.avro.generic.GenericRecord'.(ˆ‹÷µ8Îû¥ö†/

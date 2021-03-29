@@ -1,0 +1,32 @@
+
+Q
+java:S1141º"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+f	java:S117f"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûùõú
+k	java:S117q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®•’ûÿÿÿÿ
+k	java:S117q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®•’ûÿÿÿÿ
+W
+java:S1128"ARemove this unused import 'org.apache.avro.generic.GenericArray'.(é¥œÿ
+F
+java:S2160"+Override the "equals" method in this class.(œÚïŠúÿÿÿÿ
+l
+java:S3008"QRename this field "MODEL$" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å’æ›øÿÿÿÿ
+<
+java:S1948L"&Make "body" transient or serializable.(‘øØã
+<
+java:S1948N"&Make "date" transient or serializable.(ıåêÌ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(‚³¨ó
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(üì––üÿÿÿÿ
+t
+java:S22933"YReplace the type specification in this constructor call with the diamond operator ("<>").( ¢ƒ˜ûÿÿÿÿ
+P
+java:S1161c":Add the "@Override" annotation above this method signature(Òâíø
+G
+java:S2160Õ"+Override the "equals" method in this class.(ŸóÌåûÿÿÿÿ
+D
+java:S1905Ğ".Remove this unnecessary cast to "DatumWriter".(Ñ—‡A
+D
+java:S1905Ù".Remove this unnecessary cast to "DatumReader".(¤Œ€
+h
+java:S3776í"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(Ö’®S

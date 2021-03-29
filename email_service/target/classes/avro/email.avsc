@@ -1,0 +1,42 @@
+{
+  "type": "record",
+  "namespace": "com.sunilvb.demo",
+  "name": "Email",
+  "version": "1",
+  "fields": [
+    {
+      "name": "clienteDto",
+      "type": {
+        "name": "clienteDto",
+        "type": "record",
+        "fields": [
+          {
+            "name": "clienteId",
+            "type": "int",
+            "doc": "Id of the item"
+          },
+          {
+            "name": "nome",
+            "type": "string",
+            "doc": "Description of the item"
+          },
+          {
+            "name": "email",
+            "type": "string",
+            "doc": "Unit price of the item"
+          }
+        ]
+      }
+    },
+    {
+      "name": "body",
+      "type": "string",
+      "doc": "Id of the item"
+    },
+    {
+      "name": "date",
+      "type": "string",
+      "doc": "Description of the item"
+    }
+  ]
+}

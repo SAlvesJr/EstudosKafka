@@ -1,0 +1,64 @@
+{
+  "type": "record",
+  "namespace": "com.sunilvb.demo",
+  "name": "Order",
+  "version": "1",
+  "fields": [
+    {
+      "name": "libraryEventId",
+      "type": "int",
+      "doc": "Id of the order filed"
+    },
+    {
+      "name": "cliente",
+      "type": {
+        "name": "cliente",
+        "type": "record",
+        "fields": [
+          {
+            "name": "clienteId",
+            "type": "int",
+            "doc": "Id of the item"
+          },
+          {
+            "name": "nome",
+            "type": "string",
+            "doc": "Description of the item"
+          },
+          {
+            "name": "email",
+            "type": "string",
+            "doc": "Unit price of the item"
+          }
+        ]
+      }
+    },
+    {
+      "name": "book",
+      "type": {
+        "type": "array",
+        "items": {
+          "name": "book",
+          "type": "record",
+          "fields": [
+            {
+              "name": "bookId",
+              "type": "int",
+              "doc": "Id of the item"
+            },
+            {
+              "name": "bookName",
+              "type": "string",
+              "doc": "Description of the item"
+            },
+            {
+              "name": "bookAuthor",
+              "type": "string",
+              "doc": "Unit price of the item"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
